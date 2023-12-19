@@ -1,4 +1,4 @@
-# example of a script that performs a backup on the local server and then securely transfers the backup files to a remote server using rsync over SSH.
+### example of a script that performs a backup on the local server and then securely transfers the backup files to a remote server using rsync over SSH.
 
 ```
 #!/bin/bash
